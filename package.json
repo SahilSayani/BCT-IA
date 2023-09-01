@@ -1,0 +1,30 @@
+{
+  "name": "crowdfunding",
+  "version": "1.0.0",
+  "description": "Akshat Shah - 16010120102 Yash Shah - 16010120103 Sahil Sayani- 16010120135",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spandan114/Crowdfunding-DAPP.git"
+  },
+  "author": "Sahil S",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.2",
+    "hardhat": "^2.8.3"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
